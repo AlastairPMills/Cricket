@@ -1,4 +1,4 @@
-# The Backtest App
+# Cricket model README
 I’ve built a simple cricket model for ratings batsmen and bowlers based on ball by ball test match data from cricsheet 
 stretching back over the last 12 years. This file details some instructions for running the model within the jupyter 
 notebook included in the repo
